@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ofek1997shtrit@gmail.com
+	name = ofek shtrit
